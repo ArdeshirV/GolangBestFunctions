@@ -1,3 +1,4 @@
+// ReadLine - Reads exactly one line of input text from standard-input and works in Mac, Linux and Windows systems.
 func ReadLine() string  {
   inputLine := ""
   for {
