@@ -12,7 +12,7 @@
 - You shouldn't change any other part of README.md file, specially current principles.
 
 ### Functions:
-- [func ReadLine() stirng](https://github.com/ArdeshirV/GolangBestFunctions/blob/main/ReadLine.go) - Reads exactly one line of input text and works in all systems(Mac, Linux and Windows).
+- [func ReadLine() stirng](https://github.com/ArdeshirV/GolangBestFunctions/blob/main/ReadLine.go) - Reads exactly one line of input text from standard-input and works in Mac, Linux and Windows systems.
 - Add your useful function here!
 
 Good luck!
