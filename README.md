@@ -8,11 +8,11 @@
 - Add comments to describe your code and the usage better.
 - If you want to contribute your code here; It means you accepted to share your code with the MIT license.
 - Add your comments about your function-usage right here in this README.md file in just one line of text that can be too long with following format:
-`func <FunctionName>(<Parameters-List>) <Return-Type-List> - <Description and usage>`
+`[func <FunctionName>(<Parameters-List>) <Return-Type-List>](Link-To-Your-File-In-This-Repository) - <Description and usage as text>`
 - You shouldn't change any other part of README.md file, specially current principles.
 
 ### Functions:
-- func ReadLine() stirng - Reads exactly one line of input text and works in all systems(Mac, Linux and Windows).
+- [func ReadLine() stirng](https://github.com/ArdeshirV/GolangBestFunctions/blob/main/ReadLine.go) - Reads exactly one line of input text and works in all systems(Mac, Linux and Windows).
 - Add your useful function here!
 
 Good luck!
