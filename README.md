@@ -11,8 +11,8 @@
 `func <FunctionName>(<Parameters-List>) <Return-Type-List> - <Description and usage>`
 - You shouldn't change any other part of README.md file, specially current principles.
 
-## Functions:
-- func ReadLine() stirng - Reads exactly one line of input text and works in all systems(Mac, Linux and Windows)
+### Functions:
+- func ReadLine() stirng - Reads exactly one line of input text and works in all systems(Mac, Linux and Windows).
 - Add your useful function here!
 
 Good luck!
