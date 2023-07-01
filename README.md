@@ -2,7 +2,7 @@
 ## The most useful methods to use the Go programming language goes here 
 
 ### if you like to contribute, please read following principles:
-- Please write just one functions in each file with same name as function name.
+- Please write just one function in each file with same name as function name.
 - Use simple and self-description function names.
 - Be sure that your code is very well optimized.
 - Add comments to describe your code and the usage better.
